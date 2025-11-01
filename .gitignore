@@ -1,0 +1,9 @@
+node_modules/
+project_docs/
+
+venv/
+
+.env
+*.env
+.env.local
+.env.production
